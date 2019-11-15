@@ -4,7 +4,7 @@
 
 Con este documento pretendemos darte una ayuda para que pases la prueba técnica de acceso al bootcamp de Ironhack en análisis de datos y sepas a lo que te vas a enfrentar. Consistirá principalmente en resolver un problema básico de programación en Python. Los conceptos estadísticos necesarios serán mínimos.
 
-Contiene tres secciones: 
+Contiene dos secciones: 
 * **Programación online**: para que practiques fácilmente tus códigos. 
 * **Conocimientos de Python**: para mostrarte los conocimientos mínimos con ejemplos. 
 
