@@ -7,7 +7,6 @@ Con este documento pretendemos darte una ayuda para que pases la prueba técnica
 Contiene tres secciones: 
 * **Programación online**: para que practiques fácilmente tus códigos. 
 * **Conocimientos de Python**: para mostrarte los conocimientos mínimos con ejemplos. 
-* **Ejemplo de prueba de acceso**: para que lo resuelvas y nos envíes tu solución. 
 
 ## Programación online
 
